@@ -1,0 +1,10 @@
+{
+  "meta": { "version": "1.0.0" },
+  "library": {
+    "ZIEL": {
+      "subdimensions": {
+        "ZIEL_TYP": { "values": ["informieren", "entscheidung"] }
+      }
+    }
+  }
+}
